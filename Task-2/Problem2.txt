@@ -13,7 +13,7 @@ Loop i
 
 If i is strictly equal to input
   Print response
-    "F(" input ")=" c
+    "F(" &input& ")=" &c
 Assign c = a + b
 Assign a = b
 Assign b = c
