@@ -14,9 +14,9 @@ Loop i
 If i is strictly equal to input
   Print response
     "F(" input ")=" c
-c = a + b
-a = b
-b = c
+Assign c = a + b
+Assign a = b
+Assign b = c
 End Loop
 
 End
