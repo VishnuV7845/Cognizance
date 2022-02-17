@@ -1,0 +1,23 @@
+This program will allow you to check if a given number is divisible by 3 or not.
+
+Start
+Declare variable 
+Integer a, input
+Real b
+
+Print
+  "What number would you like to input?"
+Read input from user
+
+Assign b = input/3
+Asign a = input/3
+
+If a is strictly equal to b
+  Print response
+    "True"
+Else
+  Print response
+    "False"
+End
+
+End

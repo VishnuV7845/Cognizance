@@ -1,0 +1,22 @@
+This program will find the Nth term of a Fibonacci series for the user.
+
+Start 
+Declare variable a, b, c, i, input
+A = 0, B = 1, C = 1
+
+Print 
+  "What number would you like to input?"
+Read input from user
+
+Loop i 
+ 1 to 45
+
+If i is strictly equal to input
+  Print response
+    "F(" input ")=" c
+c = a + b
+a = b
+b = c
+End Loop
+
+End
