@@ -5,7 +5,7 @@
 <hr>
 
 ## Motivation
-### I have loved reading books from Grade 9,but it could be hard to actually discuss them, or even find people to read together with, when all of your friends are not even interested. So, I thought, why not an online place for such people to come together and do something that they love? An Onine Book Club I am in with my online friends on Discord might also be a part in all this. 
+### I have loved reading books since Grade 9, but it could be hard to actually discuss them, or even find people to read together with, when all of your friends are not even interested in the hobby. So, I thought, why not an online place for such people to come together and do something that they love? An Onine Book Club I am in with my online friends on Discord might also be a part in all this. 
 
 ## Future improvements
 * ### A "contact us" button at the top ribbon
